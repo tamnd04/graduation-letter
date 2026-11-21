@@ -1,0 +1,4 @@
+.vercel
+.env*
+# personal data (name, email) — deployed from your machine, never committed
+assets/js/config.local.js
